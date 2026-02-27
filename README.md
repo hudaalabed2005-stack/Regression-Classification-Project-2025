@@ -5,11 +5,11 @@ This repository contains my term project for the **Artificial Intelligence and M
 The project focuses on solving a **Classification/Regression problem** using a dataset obtained from Kaggle/other sources.
 
 ## 📊 Dataset
-- **Dataset Name:** [Insert name here]
-- **Number of Features:** [Insert number]
-- **Number of Instances:** [Insert number, >1000]
-- **Target Column:** [Insert target column]
-- **Balanced Data:** Yes/No
+- **Dataset Name:** [loan_approval_dataset]
+- **Number of Features:** [14]
+- **Number of Instances:** [4268, >1000]
+- **Target Column:** [loan_status]
+- **Balanced Data:** Yes
 
 ## ⚙️ Project Workflow
 1. **Dataset Selection**  
